@@ -1,5 +1,6 @@
 # KNN-Classifier
-Write a program to do KNN, run the codes on both the face data and handwritten data.
+Write a program to do KNN, run the codes on both the face data and handwritten data.  
+It has both version of using KNN-Classifier function and without KNN-Classifier function.
 
     (i) what is the value of k choose. 
   
