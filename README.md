@@ -1,4 +1,4 @@
-# KNN-Classifier
+# KNN-Classifier using Euclidean Distance Measurement Method
 Write a program to do KNN, run the codes on both the face data and handwritten data.  
 It has both version of using KNN-Classifier function and without KNN-Classifier function.
 
